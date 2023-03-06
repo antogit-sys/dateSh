@@ -3,10 +3,13 @@ git config --user.name "username"
 git config --user.email "email"
 git congig --list --show-origin
 
-#init
-git ini
+#^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^#
+# -- create token               #
+#################################
 
-# -- create token
+#init
+git init
+
 
 # downlaod remote repository
 git remote add origin https://github.com/username/repo.git
