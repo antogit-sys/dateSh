@@ -1,6 +1,7 @@
 #config
 git config --user.name "username"
 git config --user.email "email"
+git congig --list --show-origin
 
 #init
 git ini
@@ -19,3 +20,7 @@ git add <namefile>
 
 #commit 
 git commit -m "commit name"
+
+#push
+git push origin <branch>
+#password --> token
