@@ -1,2 +1,21 @@
-git init
+#config
+git config --user.name "username"
+git config --user.email "email"
 
+#init
+git ini
+
+# -- create token
+
+# downlaod remote repository
+git remote add origin https://github.com/username/repo.git
+git pull origin <branch> #master
+
+#status 
+git status
+
+#trace file (add)
+git add <namefile>
+
+#commit 
+git commit -m "commit name"
